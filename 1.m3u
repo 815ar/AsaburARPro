@@ -9,8 +9,6 @@ http://103.165.93.31:8095/tsports/tracks-v1a1/mono.m3u8
 
 
 
-
-#====== Toffee World Cup ============
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels",Toffee 
 http://fifabangladesh.top/BRAZIL2/LIVE/play.m3u8?q=900&c=-2
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels",Toffee 
