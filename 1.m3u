@@ -38,8 +38,6 @@ https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdn
 https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/index.m3u8
 
 
-#EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="world cup",Football World Cup
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 
 #EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="world cup",Football World Cup
 https://andro.evrenesoglu57.click/checklist/batutest.m3u8
